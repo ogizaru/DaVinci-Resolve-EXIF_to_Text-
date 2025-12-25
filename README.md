@@ -1,0 +1,1 @@
+# DaVinci-Resolve-EXIF_to_Text-
