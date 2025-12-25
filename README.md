@@ -2,7 +2,9 @@
 ### DaVinci Resolveにおいて画像・動画データのEXIF情報を抽出しテキスト+に出力するスクリプトです。Luaスクリプトを使用しています。
 
 <br>
+
 ## 使用方法
+
 Windowsの場合は
 >%APPDATA%\Blackmagic Design\DaVinci Resolve\Support\Fusion\Scripts
 
